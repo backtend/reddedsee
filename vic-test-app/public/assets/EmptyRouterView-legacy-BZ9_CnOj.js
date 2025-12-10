@@ -1,1 +1,0 @@
-System.register(["./index-legacy-CsCVb7GC.js"],(function(e,t){"use strict";var r,n,u,c;return{setters:[e=>{r=e.a,n=e.c,u=e.a8,c=e.e}],execute:function(){e("default",r({},[["render",function(e,t){const r=u("router-view");return c(),n(r)}]]))}}}));
